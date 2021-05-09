@@ -1,0 +1,22 @@
+{
+  "name": "spotify-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "npx tailwindcss-cli@latest build ./src/styles.css -o ./public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinandreanus/spotiffy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinandreanus/spotiffy/issues"
+  },
+  "homepage": "https://github.com/kevinandreanus/spotiffy#readme",
+  "dependencies": {
+    "tailwindcss": "^2.1.2"
+  }
+}
