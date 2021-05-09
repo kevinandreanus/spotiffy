@@ -14,6 +14,11 @@ module.exports = {
       fontSize: {
         xxs: "0.5rem",
       },
+      spacing: {
+        14: "3.5rem",
+        22: "5.5rem",
+        200: "50rem",
+      },
     },
   },
   variants: {
